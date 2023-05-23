@@ -36,3 +36,5 @@ while s < 5:
   s = 3*a
   a += 1
 print(s)
+
+print('Olá mundo!')
